@@ -403,7 +403,7 @@
 			"response": []
 		},
 		{
-			"name": "Update an order Copy",
+			"name": "Delete an order",
 			"event": [
 				{
 					"listen": "test",
